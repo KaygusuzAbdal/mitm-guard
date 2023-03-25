@@ -1,6 +1,6 @@
 # MITM Guard
 
-A usefull ethical hacking tool to detect MITM attacks. You can use it in public areas that serve free wifi. The MITM Guard will confuse the attacker by sending fake ARP packets.
+A usefull ethical hacking tool to detect MITM attacks. You can use it in public areas that serve free wifi. The MITM Guard will confuse the attacker by sending fake HTTP Requests.
 
 ## Usage
 
